@@ -1,0 +1,11 @@
+Model Information:
+* title:	[CC0] Chocolate Cake
+* source:	https://sketchfab.com/3d-models/cc0-chocolate-cake-fc5f7716bba54284884136ca1403c59f
+* author:	adadadad5252341 (https://sketchfab.com/adadadad5252341)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[CC0] Chocolate Cake" (https://sketchfab.com/3d-models/cc0-chocolate-cake-fc5f7716bba54284884136ca1403c59f) by adadadad5252341 (https://sketchfab.com/adadadad5252341) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
